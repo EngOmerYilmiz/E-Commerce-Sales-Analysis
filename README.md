@@ -148,13 +148,12 @@ Use `vw_sales_orders` for order-level metrics and `vw_order_items_detail` for pr
 
 ## Key Findings
 
-_Add your findings here after running the analysis, for example:_
-
-- Revenue trend and strongest months
-- Best and worst categories by margin
-- Customer segments with the best profit-to-acquisition-cost ratio
-- Warehouses or shipping methods with the highest late-delivery rates
-- Campaigns that generate revenue but erode margin
+1. Flat Revenue: Sales remained around 29M annually from 2021 to 2025, showing little growth.
+2. Order Losses: Only 81% of order value reaches Completed status; cancellations, returns, and pending orders represent significant losses.
+3. Discounts Destroy Profit: Products discounted by 30–60% earn a 20% margin, compared with 51% for discounts below 5%.
+4. Low Electronics Profitability: Electronics generates 21% of revenue but has the lowest category margin at 32.5%.
+5. Customer Retention Risk: 40% of customers have not purchased in the last year, creating a major reactivation opportunity.
+6. Late Deliveries Hurt Satisfaction: Delayed orders receive an average rating of 3.22, compared with 3.73 for on-time orders.
 
 ## Dashboard
 <img width="1000" height="800" alt="Dashboard" src="https://github.com/user-attachments/assets/a108cfc2-bcf1-4127-909f-9aa01d38360b" />
