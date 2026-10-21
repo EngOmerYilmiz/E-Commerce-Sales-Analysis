@@ -13,7 +13,7 @@ An end-to-end SQL analysis of an e-commerce dataset made of five related files. 
 
 - **SQL Server** and **SQL Server Management Studio (SSMS)**
 - **T-SQL**: CTEs, window functions (`LAG`, `NTILE`), views, indexes
-- **Power BI** (planned): dashboard on top of the SQL views
+- **Tableau** (planned): dashboard on top of the SQL views
 
 ## Dataset
 
