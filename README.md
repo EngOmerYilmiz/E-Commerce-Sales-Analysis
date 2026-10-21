@@ -156,11 +156,9 @@ _Add your findings here after running the analysis, for example:_
 - Warehouses or shipping methods with the highest late-delivery rates
 - Campaigns that generate revenue but erode margin
 
-## Next Steps
+## Dashboard
+<img width="1000" height="800" alt="Dashboard" src="https://github.com/user-attachments/assets/a108cfc2-bcf1-4127-909f-9aa01d38360b" />
 
-- Build a Power BI dashboard on `vw_sales_orders` and `vw_order_items_detail`
-- Add stored procedures for monthly KPI reporting
-- Forecast monthly sales with Python
 
 ## Author
 
